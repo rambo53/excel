@@ -1,0 +1,45 @@
+///////////////////// MISE EN FORME /////////////////////
+
+Pour activer les mise en forme conditionnelles :
+
+- sélectionner la colonne
+- onglet accueil
+- case styles
+- mise en forme conditionnelle
+- je sélectionne la règle à appliquer, ex pour des chiffres : si le chiffre est supérieur à 1000
+
+///////////////////// 
+
+Je peux appliquer plusieurs mise en forme sur une même colonne, attention car par défaut la dernière mise en forme prend le pas sur la première.
+Exemple :
+
+Je veux mettre en surbrillance la valeur la plus haute en vert foncé, et mettre les 3 plus hautes en vert claires, dans ce cas la valeur la plus haute sera affiché en clair.
+
+Pour garder la première mise en forme, soit je modifie l'ordre de déclaration de mes mise en forme, où je peux modifier leurs ordre après via :
+
+- onglet accueil
+- case styles
+- mise en forme conditionnelle
+- gérer les règles
+
+Et dans ma popup je peux modifier leur ordre avec les flêches, ou supprimer une règle...
+
+///////////////////// 
+
+Pour mettre en forme des cellules selon la valeur d'une cellule : 
+
+- on sélectionne les cellules qui auront cette mise en forme
+- onglet accueil
+- case styles
+- mise en forme conditionnelle
+- nouvelle règle
+- appliquer une mise en forme uniquement aux cellules qui contiennent
+
+Et ensuite on rentre la condition dans "appliquer une mise en forme uniquement aux cellules contenant":
+
+- valeur de la cellule
+- inférieur à
+- "je sélectionne la cellule à observer"
+- "je choisit un format"
+
+
