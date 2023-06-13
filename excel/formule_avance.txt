@@ -20,3 +20,16 @@ pantalon	>730
 
 Ici je veux les lignes avec des produits pantalon dont les jours de ventes sont supérieur à 730.
 L'ordre des filtres se fait de gauche à droite, d'abord produit, puis jours.
+
+//////////////////
+
+Pour imbriquer des formules avec un exemple de condition :
+
+- =SI(SOMME(G6:J6)>SOMME(C6:F6);"bravo";"nul")
+
+Ici on imbrique des formules "somme" dans une condition "si".
+Traduction de la ligne du dessus :
+
+"Si la somme des valeurs des cellules de g6 à j6 est supérieur à la somme des valeurs des cellules de c6 à f6
+alors on affiche "bravo" dans le cas contraire on affiche "nul"."
+
