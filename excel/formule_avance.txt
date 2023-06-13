@@ -1,0 +1,22 @@
+////////////////// FORMULE AVANCE //////////////////
+
+Pour appliquer des filtres poussés sur un tableau :
+
+- onglet données
+- trier et filtrer
+- avancé
+
+La popup me demande de remplir 2 valeurs :
+
+- les coordonnées du tableau à filtrer
+- les coordonnées de la zone de critère
+
+Une zone de critère va contenir une ou plusieurs colonnes avec des filtres à appliquer, pour se faire il faut dans une cellule le nom de la colonne, et dans la cellule du dessous le critère pour filtrer.
+
+ex :
+
+Produits	Jours
+pantalon	>730
+
+Ici je veux les lignes avec des produits pantalon dont les jours de ventes sont supérieur à 730.
+L'ordre des filtres se fait de gauche à droite, d'abord produit, puis jours.
