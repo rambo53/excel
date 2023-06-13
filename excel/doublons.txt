@@ -1,0 +1,11 @@
+////////////////// doublons ///////////////////
+
+Pour détecter des doublons de lignes, on utilise la fonction "concatener" de excel sur les colonnes que l'on veut tester.
+Puis on va dans :
+- mise en forme conditionnelle
+- regles de mise en surbrillance des cellules
+- valeurs en doubles
+
+
+Pour supprimer ces doublons on se rends sur l'onglet "données", puis dans la section "outils de données", on a une option "supprimer les doublons".
+On peut sélectionner quelles combinaisons de colonnes représentent des doublons, par défaut excel les sélectionne toutes.

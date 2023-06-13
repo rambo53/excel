@@ -1,0 +1,17 @@
+//////////////////////////// NETTOYER ////////////////////////////
+
+Pour nettoyer les données de mon fichier excel je vais sur :
+
+- fichier
+- informations
+- vérifier l'absence de problèmes
+
+Différents contrôles de mon fichier seront effectués, comme la vérification de lignes ou colonnes masquées.
+
+Pour s'assurer de la dernière cellule utilisée, on clique en haut à droite sur :
+
+- rechercher et sélectionner
+- Sélectionner les cellules
+- dernière cellule
+
+Elle peut simplement contenir un espace vide.

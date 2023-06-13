@@ -1,0 +1,34 @@
+//////////////////////////// FONCTIONS //////////////////////////////
+
+Pour utiliser des fonctions sous excel on sélectionne une cellule où injecter la valeur obtenue après application de la fonction, puis on clique sur le "fx" pour sélectionner la fonction que l'on veut utiliser, on rentre le numéro de cellule que l'on veut formater.
+
+Pour appliquer la fonction à toute une colonne, on sélectionne la cellule dans laquelle on a le nouveau résultat, puis on étire le long de la colonne le carré du coin droit en bas.
+
+L'application de la fonction se fera sur toute la colonne.
+
+
+Une fois que l'on a appliqué la fonction sur une colonne et que l'on veut garder le résultat obtenue tout en supprimant l'ancienne colonne :
+
+- sélectionner la colonne
+- click droit copier
+- sélectionner première cellule
+- click droit collage spéciale
+- dans onglet coller
+- sélectionner valeurs
+- ok
+
+Et on peut supprimer la colonne d'origine sur laquelle on a appliqué le traitement sans perdre les résultats.
+
+//////////////////////////////
+
+On peut imbriquer des fonctions :
+
+=DROITE(B2;NBCAR(B2)-4)
+
+Ici c'est pour passer de :
+
+- CAT_Haut-Et-Bas
+
+à :
+
+- Haut-Et-Bas

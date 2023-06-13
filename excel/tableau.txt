@@ -1,0 +1,5 @@
+////////////////////////// TABLEAU //////////////////////////
+
+Pour analyser plus rapidement et facilement mes données avec des filtres automatiques ou des champs calculés appliqués automatiquement sur une colonne.
+
+Dans l'onglet accueil, je sélectionne "Mettre sous forme de tableau".
