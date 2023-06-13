@@ -32,3 +32,11 @@ Ici c'est pour passer de :
 à :
 
 - Haut-Et-Bas
+
+//////////////////////////////
+
+Pour changer une chaine de caractère en nombre :
+
+- =CNUM(G2)
+
+Les chiffres sont alignés à droite et les chaines de caractères à gauche.
