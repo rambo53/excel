@@ -1,0 +1,28 @@
+/////////////////// RECHERCHEV ///////////////////
+
+Pour lié des valeur issues de différents tableaux via des id.
+
+- =RECHERCHEV(B2;correspondance_pays!A:E;2;FAUX)
+
+Premier argument : B2 
+- dans le fichier dans lequel je veux intégrer des données via un id, la colonne contenant les id
+
+Deuxième argument : correspondance_pays!
+- la sheet depuis laquelle je veux extraire les données
+
+Deuxième argument (suite): A:E
+- les colonnes du tableau d'où je veux extraire les données
+
+Troisième argument : 2
+- le numéro de la colonne dont je veux extraire les valeurs
+
+Quatrième argument : FAUX
+- si je veux récupérer des valeurs dont l'id ressemble 
+
+///////////////////
+
+Ici par exemple je voulais récupérer le nom d'un pays via son code :
+
+- id dans mon fichier de base : RUS
+- id dans mon fichier de correspondance : RUS 
+- valeur dans mon fichier de correspondance à récupérer : Fédération de Russie
