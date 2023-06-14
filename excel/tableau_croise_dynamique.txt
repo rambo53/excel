@@ -1,0 +1,25 @@
+////////////////////// TABLEAU CROISE DYNAMIQUE //////////////////////
+
+Permet de filtrer et d'afficher des résultats sous forme de tableau avec plusieurs critères.
+
+Pour en créer un :
+
+- onglet insertion
+- tableaux
+- tableau croisé dynamique
+
+je sélectionne "à partir d'un tableau ou d'une plage".
+
+Dans la popup il me sélectionne par défaut le tableau du fichier excel, je click juste sur ok.
+
+Excel créera une sheet pour intégrer mon tcd, avec sur la droite les colonnes que je veux trier.
+
+//////////////////////
+
+Je peux aussi générer des graphiques croisés dynamique :
+
+- onglet insertion
+- graphiques
+- graphique croisé dynamique
+
+Comme pour le tableau au dessus mais là je peux choisir les données à afficher dans mon graphique directement dans mon graphique.

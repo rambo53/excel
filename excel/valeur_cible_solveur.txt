@@ -1,0 +1,41 @@
+////////////// VALEUR CIBLE SOLVEUR //////////////
+
+Valeur cible sera utile pour trouver une seule inconnue dans un calcul.
+
+- onglet données
+- prévision
+- analyse scénario
+- valeur cible
+
+On aura 3 valeur à remplir :
+
+- la cellule à définir, exemple : le montant des ventes
+- valeur à atteindre, exemple : objectif de 75 000€
+- cellule à modifier, exemple : nombre des ventes 
+
+Attention une formule de calcule doit être renseigné sur la cellule à modifier pour rendre le calcul possible et dynamique. 
+
+////////////// 
+
+Un solveur sera lui utile pour trouver plusieurs inconnues.
+On peut ajouter des contraintes comme ne pas dépasser un certains nombre.
+
+Par défaut le solveur n'est pas installé dans excel, il faut l'activer.
+
+- onglet fichier
+- options (tout en bas)
+- compléments
+- atteindre
+- cocher complément solveur
+- cliquer sur ok
+
+Pour pouvoir l'utiliser :
+
+- onglet données
+- analyse 
+- solveur
+
+On a 3 zones :
+- objectif à définir
+- cellules variables
+- contraintes

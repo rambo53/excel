@@ -1,0 +1,17 @@
+////////////////////// GRAPHIQUE //////////////////////
+
+Pour créer des graphiques, je sélectionne les datas que je veux intégrer dans ce dernier, puis :
+
+- onglet insertion 
+- Graphiques 
+
+Puis je sélectionne le graphique que je souhaite présenter.
+
+//////////////////////
+
+On peut intégrer des illustrations pour expliciter nos résultats avec smart art :
+
+- onglet insertion 
+- illustrations
+- SmartArt
+
