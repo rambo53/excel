@@ -1,0 +1,10 @@
+///////////////////////////// COPIE ///////////////////////////// 
+
+Pour effectuer une copie d'une valeur dans plusieurs cellules de manière horizontal ou vertical, je vais utiliser le petit carré vert dans l'angle bas droit pour étirer et ainsi sélectionner les cellules dans lesquelles copier les valeurs.
+
+
+Pour faire la même chose mais avec des valeurs incrémentés : 1,2,3... , je remplis deux cellules cote à cote avec deux valeurs incrémentés, pusi je fais la même manip qu'au dessus, ainsi excel détecte que entre mes deux cellules j'ai incrémenté de 1 et le fera automatiquement pour les autres copies.
+
+Je ne suis pas obligé d'incrémenté de 1, mais je peux choisir l'incrémentation que je désire.
+
+Je peux aussi utiliser la recopie auto avec les mois de l'année, je remplie une cellule avec "Janvier" puis en faisant la même manip qu'au dessus excel me remplie automatiquement les cellules avec les mois de l'année.

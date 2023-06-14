@@ -1,0 +1,11 @@
+///////////////// VALEUR AUTORISE /////////////////
+
+Pour autoriser ou non certaines valeurs, je sélectionne la cellule puis :
+
+- onglet données
+- outils de données 
+- validation des données
+
+Dans la popup je peux ainsi appliquer des contraintes sur les cellules.
+
+Pour utiliser des listes de valeurs, dans source je sépare les valeurs autorisés par un ";".

@@ -1,0 +1,5 @@
+///////////////////// MACRO VBA /////////////////////
+
+Les macros vba sont des programmes, des scripts, intégrés dans un classeur excel.
+Pour pouvoir les activer et les utiliser, il faut avoir un fichier au format "xlsm", ça ne marchera pas avec un fichier "xlsx".
+
