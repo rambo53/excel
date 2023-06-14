@@ -3,3 +3,28 @@
 Les macros vba sont des programmes, des scripts, intégrés dans un classeur excel.
 Pour pouvoir les activer et les utiliser, il faut avoir un fichier au format "xlsm", ça ne marchera pas avec un fichier "xlsx".
 
+Pour activer l'onglet "developpeur" et ainsi accéder à la possibilité d'écrire des scripts il faut :
+
+- fichier
+- options 
+- personnaliser le ruban
+- Développeur
+
+Pour ouvrir l'ide intégré à excel, dans l'onglet "développeur" il faut cliquer sur "visual basic". 
+
+/////////////////////
+
+On peut automatiser certaines macro avec le bouton "enregistrer macro" dans l'onglet développeur, nos actions seront traduites en code VBA.
+Pour rejouer la macro il faut aller dans l'ide et aller dans le dossier modules.
+
+/////////////////////
+
+Pour écrire du code vba, il faut sélectionner sur la gauche le fichier dans lequel on veut appliquer ce code et ensuite l'écrire dans la page ouverte par l'ide.
+
+Exemple de code pour changer couleur de texte d'une cellule :
+
+Sub proprietes()
+    
+    Range("A1").Font.Color = "red"
+    
+End Sub
