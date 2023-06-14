@@ -28,3 +28,6 @@ Sub proprietes()
     Range("A1").Font.Color = "red"
     
 End Sub
+
+Cours sur les scripts VBA :
+- https://www.excel-pratique.com/fr/vba/conditions
